@@ -46,5 +46,5 @@ testing on this. YMMV.
 
 1. Install
    [Canvas for Pebble](https://play.google.com/store/apps/details?id=com.pennas.pebblecanvas)
-1. On your phone, download `src/Dash.pcs` from this repository
+1. On your phone, download the [latest `Dash.pcs` release](https://github.com/ccharles/pebble-canvas-dash/releases/download/1.0.0/Dash.pcs) from this repository
 1. When prompted, open the file with Canvas
